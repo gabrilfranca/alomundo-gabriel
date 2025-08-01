@@ -9,4 +9,13 @@ lista.textContent = lingugens[0];
 lista.textContent = lingugens[1];
 lista.textContent = lingugens[2];
 
+let aluno1 ={
+    nome:'Gabriel',
+    idade: 17,
+    anoletivo: 'Ensino Médio'
+    matériasFavoritas:['Matemáticati,físíca']
+
+
+}
+
 
